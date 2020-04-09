@@ -9,5 +9,5 @@
 import Foundation
 
 class Music{
-    
+    var a : String = ""
 }

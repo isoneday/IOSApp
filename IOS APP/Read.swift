@@ -12,4 +12,5 @@ class Siswa{
     var a : String = ""
     var assda : String = "dsF"
     var kkk : String = "sds"
+    var aa : String = "sadsas"
 }
